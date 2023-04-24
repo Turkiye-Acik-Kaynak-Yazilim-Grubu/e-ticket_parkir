@@ -19,7 +19,7 @@ Sistem E-ticket Parkir berbasis QR-Code (Quick Response Code) yang dibuat oleh <
 ## Quickstart :
 - Buat folder dengan nama 'E-Ticket'.
 - Simpan semua file project di folder tersebut.
-- Buat database dengan nama : db_eparkir.
+- Buat database dengan nama 'db_eparkir'.
 - Import file db_eparkir.sql yang ada pada folder database.
 - Akses Login : <br>
 		Sebagai Admin <br>
