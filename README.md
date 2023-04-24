@@ -1,7 +1,7 @@
 # E-Ticket Parkir
 Sistem E-Ticket Parkir Menggunakan QR-Code Berbasis Web
 
-Sistem E-ticket Parkir berbasis QR-Code (Quick Response Code) yang dibuat oleh <b>Yulia Krisna Dewi</b> dengan menggunakan framework CodeIgniter 3 dan serta tampilannya menggunakan template [Gentelella](https://github.com/ColorlibHQ/gentelella), yang memiliki fitur  : <br>
+Sistem E-ticket Parkir berbasis QR-Code (Quick Response Code) adalah sistem yang dibuat oleh <b>Yulia Krisna Dewi</b> dengan menggunakan framework CodeIgniter 3 dan serta tampilannya menggunakan [template Gentelella](https://github.com/ColorlibHQ/gentelella), sistem ini memiliki fitur  : <br>
 - Pendaftaran Anggota.
 - Manajemen Data Kendaraan.
 - Scan QR Code parkir masuk dan keluar.
